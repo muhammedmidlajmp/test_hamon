@@ -1,0 +1,1 @@
+enum BottomNavItem { student, subject, classRoom }
